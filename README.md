@@ -1,7 +1,8 @@
 
 ## 📊Store Sales Prediction - EDA Highlights
 ### Sample View
-![image](https://github.com/user-attachments/assets/708bee67-0743-4a92-8225-24980a870e69)
+![image](https://github.com/user-attachments/assets/d9b05f06-8102-4899-b355-e73f0cbc849b)
+
 
 
 ### 📁 Project Overview
